@@ -56,6 +56,7 @@ https://www.reddit.com/user/m0rg482494
 <div align="center">
   <br/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux">
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows">
 </div>
