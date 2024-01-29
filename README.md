@@ -38,7 +38,10 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
-### X
+<div align="left">
+  <br/>
+https://icons8.com/icon/phOKFKYpe00C/twitterx
+</div
 https://twitter.com/morganbinbash
 
 ## in
