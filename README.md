@@ -92,7 +92,6 @@ Portswingger > web security αcαdemy
 ###
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/color/48/000000/mariadb.png" alt="MariaDb">  
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis">
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
