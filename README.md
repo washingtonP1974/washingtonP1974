@@ -123,6 +123,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br/>
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d65385b9-7ad6-46dd-b1f4-0222331dc881" alt="GitHub">
+  ![image](https://github.com/washingtonP1974/washingtonP1974/assets/55928887/28911088-f2d0-4479-afd3-ecc6c0011cc9)
   </div>
 -->
