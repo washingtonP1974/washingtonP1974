@@ -46,12 +46,14 @@ https://www.reddit.com/user/m0rg482494
 ### __________________________________________________________________________________________
 
 ### 🚩 < 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟 >
-###
-<div align="center">
-  <br/>
-  <img src="https://img.icons8.com/color/48/000000/hackyhebox.png" alt="Hackthebox">
-</div>
 
+HTB > Hαck the box
+
+THM > Tryhαckme
+
+HC > Hαcking Club
+
+PC > picoCTF
 
 ### __________________________________________________________________________________________
  
