@@ -12,7 +12,7 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 ### _________________________________________________________________________
 
-<div align="left">
+<div align="center">
   <br/>
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/b15194e5-e3c1-483f-9713-c191670ebb9c" alt="Media">
 </div
