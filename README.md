@@ -14,14 +14,23 @@ https://medium.com/@morganbinbash
 
 ## Gitbook
 https://morgan-bin-bash.gitbook.io/pentesting/
+
 https://morgan-bin-bash.gitbook.io/php-vulnerabilities/
+
 https://morgan-bin-bash.gitbook.io/bash-scripting/
+
 https://morgan-bin-bash.gitbook.io/security/
+
 https://morgan-bin-bash.gitbook.io/scripts-and-codes-pentester/
+
 https://morgan-bin-bash.gitbook.io/ad-privilege-escalation/
+
 https://morgan-bin-bash.gitbook.io/linux-privilege-escalation/
+
 https://morgan-bin-bash.gitbook.io/data-base/
+
 https://morgan-bin-bash.gitbook.io/mind7-pentesting/
+
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
 ## X
