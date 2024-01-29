@@ -41,6 +41,18 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
 <div align="center">
+   <a href="ttps://morgan-bin-bash.gitbook.io/pentesting/" target="_blank">
+   <a href="https://morgan-bin-bash.gitbook.io/php-vulnerabilities/" target="_blank">
+</a>
+
+</div>
+
+
+
+
+
+
+<div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
 </a>
