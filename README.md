@@ -100,38 +100,6 @@ Portswingger > web security αcαdemy
 <!-
 
 
-
-
-
-
-
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      background-color: black;
-      color: #39ff14; /* Neon Green color */
-      font-family: 'Courier New', monospace; /* Optional: Choose a monospace font */
-    }
-  </style>
-</head>
-<body>
-
-<!-- Your Markdown content goes here -->
-
-</body>
-</html>
-
-
-
-
-
-
 <!--
 **washingtonP1974/washingtonP1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
