@@ -1,13 +1,12 @@
 # Morgan Bin Bash
 
-Conhecimento na área de segurança da informação. 
-Pesquisas de evolução e novas habilidades.
-
-Neste repositório você encontrará projetos, scripts e ferrramentas que venham a colaborar com sua performance durante testes de segurança, atividades em ctf, redes, manutenção e prevenção debian.
-
+Knowledge in the area of information security.
+Evolution research, including studies with certifications in current and new skills.
+In this repository you will find projects, scripts and tools that will help with your performance during security tests, CTF activities, networks, maintenance and Debian prevention.
 
 
-### Minhas redes sociais
+### 
+𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 
 ## Medium
 https://medium.com/@morganbinbash
