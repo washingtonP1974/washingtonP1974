@@ -108,6 +108,7 @@ Portswingger > web security αcαdemy
 <div align="center">
   <br/>
   <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" alt="Hackerman">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
