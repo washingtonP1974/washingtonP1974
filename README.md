@@ -81,6 +81,22 @@ https://discord.com/channels/965763142770634782/1062873067652665405
 
 https://www.reddit.com/user/m0rg482494
 
+
+<div align="center">
+<a href="https://www.linkedin.com/in/washington8p/" target="_blank">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/a52fb62e-6f7d-46ce-8073-746f0e9f346e" alt="Linkedin">
+</a>
+<a href="https://discord.com/channels/965763142770634782/1062873067652665405" target="_blank">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/bbc9a31d-796c-44f9-8ac7-d8edb196cb0c" alt="Discord">
+</a>
+<a href="https://www.reddit.com/user/m0rg4" target="_blank">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/cc7e5a58-eafa-4f0e-bee2-2e961e7014b1" alt="Reddit">
+</a>
+
+</div>
+
+
+
 ### _________________________________________________________________________
 
 ### 🚩 < 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟 >
