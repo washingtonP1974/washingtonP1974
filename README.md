@@ -46,42 +46,6 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
-<div align="left">
-  <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
-</div
-
-https://medium.com/@morganbinbash
-
-<div align="left">
-  <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/146726e5-1295-4c9b-8e06-65412833a965" alt="TwitterX">
-</div
-  
-https://twitter.com/morganbinbash
-
-<div align="left">
-  <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/a52fb62e-6f7d-46ce-8073-746f0e9f346e" alt="Linkedin">
-</div
-  
-https://www.linkedin.com/in/washington8p/
-
-<div align="left">
-  <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/bbc9a31d-796c-44f9-8ac7-d8edb196cb0c" alt="Discord">
-</div
-  
-https://discord.com/channels/965763142770634782/1062873067652665405
-
-<div align="left">
-  <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/cc7e5a58-eafa-4f0e-bee2-2e961e7014b1" alt="Reddit">
-</div
-
-https://www.reddit.com/user/m0rg482494
-
-
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
@@ -100,8 +64,6 @@ https://www.reddit.com/user/m0rg482494
 </a>
 
 </div>
-
-
 
 ### _________________________________________________________________________
 
