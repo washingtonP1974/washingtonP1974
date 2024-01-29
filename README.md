@@ -40,7 +40,6 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
 </div
 
-### Medium
 https://medium.com/@morganbinbash
 
 <div align="left">
