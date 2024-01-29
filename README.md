@@ -65,7 +65,7 @@ https://www.reddit.com/user/m0rg482494
 
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/pR5XCsC2ATXl2ngc1n/giphy.gif" alt="Hackerman">
+  <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" alt="Hackerman">
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
