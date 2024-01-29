@@ -92,7 +92,7 @@ Portswingger > web security αcαdemy
 ###
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/color/48/000000/mariadb.png" alt="Mariadb">
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="Php">
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash">
