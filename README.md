@@ -49,10 +49,12 @@ https://twitter.com/morganbinbash
   <br/>
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/a52fb62e-6f7d-46ce-8073-746f0e9f346e" alt="Linkedin">
 
-## in
 https://www.linkedin.com/in/washington8p/
 
-### Discord
+<div align="left">
+  <br/>
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/bbc9a31d-796c-44f9-8ac7-d8edb196cb0c" alt="Discord">
+
 https://discord.com/channels/965763142770634782/1062873067652665405
 
 ### Redit
