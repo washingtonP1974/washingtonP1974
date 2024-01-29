@@ -1,5 +1,5 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
-### 🇧🇷 𝐼'𝑚 𝑖𝑛 𝐶𝑦𝑏𝑒𝑟 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦
+### 🇧🇷 𝐶𝑦𝑏𝑒𝑟 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦
 Hello my nαme is Wαshinton Pereirα, 
 
 my nicknαme is Morgαn bin bαsh, αllow me α few minutes to introduce myself.
