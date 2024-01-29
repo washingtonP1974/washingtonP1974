@@ -14,7 +14,7 @@ I hope my repositories will help with your work or studies, thαnk you for visit
 
 ### _____________________ 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚 __________________________
 
-<div align="left">
+<div align="center">
   <br/>
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8db01b60-fc39-43f6-b219-b52ae4c30fe9" alt="Book">
 </div
