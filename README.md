@@ -83,6 +83,9 @@ https://www.reddit.com/user/m0rg482494
 
 
 <div align="center">
+   <a href="https://medium.com/@morganbinbash" target="_blank">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
+</a>
   <a href="https://twitter.com/morganbinbash" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/146726e5-1295-4c9b-8e06-65412833a965" alt="TwitterX">
 </a>
