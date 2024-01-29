@@ -12,9 +12,7 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 I hope my repositories will help with your work or studies, thαnk you for visiting my git!
 
-### __________________ 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚 __________________________
-
-### 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚
+### _____________________ 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚 __________________________
 
 <div align="center">
   <br/>
