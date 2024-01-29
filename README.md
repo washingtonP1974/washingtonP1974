@@ -92,7 +92,7 @@ Portswingger > web security αcαdemy
 ###
 <div align="center">
   <br/>
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/ebaa0015-ff5e-4a4b-b1af-04c46217a02a" alt="Bash">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8f7f7d90-5bbd-4e7c-af69-bfa140c0a44c" alt="Bash">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang">
