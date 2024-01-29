@@ -12,7 +12,6 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 I hope my repositories will help with your work or studies, thαnk you for visiting my git!
 
-### _________________________            𝐆𝐢𝐭𝐛𝐨𝐨𝐤           
 
 <div align="center">
   <br/>
