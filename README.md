@@ -19,6 +19,12 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 ###
+
+<div align="left">
+  <br/>
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8db01b60-fc39-43f6-b219-b52ae4c30fe9" alt="Book">
+</div
+
 ### Gitbook
 https://morgan-bin-bash.gitbook.io/pentesting/
 
