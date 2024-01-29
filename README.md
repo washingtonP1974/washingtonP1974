@@ -63,6 +63,15 @@ https://www.reddit.com/user/m0rg482494
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS">
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hackerman">
+</div>
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<!-
+
 <!--
 **washingtonP1974/washingtonP1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
