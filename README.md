@@ -12,6 +12,43 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 ### _________________________________________________________________________
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Neon Text</title>
+  <style>
+    body {
+      background-color: #000; /* Set the background color to black */
+      color: #FFFFFF; /* Set the text color to white */
+      font-family: sans-serif; /* Set the font family */
+    }
+
+    .neon {
+      text-shadow:
+        0 0 3px #FFFFFF,
+        0 0 5px #FFFFFF,
+        0 0 7px #FFFFFF,
+        0 0 9px #FFFFFF,
+        0 0 11px #FFFFFF,
+        0 0 13px #FFFFFF,
+        0 0 153px #FFFFFF,
+        0 0 17px #FFFFFF; /* Set the neon text effect */
+    }
+  </style>
+</head>
+<body>
+  <p class="neon">
+    <!-- Replace this with your actual Markdown content -->
+    Your Markdown content goes here.
+  </p>
+</body>
+</html>
+
+
+
+
+
 #### 🚩 𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 
 ### Medium
@@ -98,7 +135,6 @@ Portswingger > web security αcαdemy
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <!-
-
 
 <!--
 **washingtonP1974/washingtonP1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
