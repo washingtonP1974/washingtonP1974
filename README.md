@@ -5,8 +5,7 @@ Evolution research, including studies with certifications in current and new ski
 In this repository you will find projects, scripts and tools that will help with your performance during security tests, CTF activities, networks, maintenance and Debian prevention.
 
 
-### 
-𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
+### 𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 
 ## Medium
 https://medium.com/@morganbinbash
