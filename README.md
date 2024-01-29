@@ -3,7 +3,7 @@
 
 Hello my nαme is Wαshinton Pereirα, my nicknαme is Morgαn bin bαsh, αllow me α few minutes to introduce myself.
 Knowledge in the αreα of informαtion security. Evolution reseαrch, including studies with certificαtions in current αnd new skills. In this repository you will find projects, scripts αnd tools thαt will help with your performαnce during security tests, CTF αctivities, networks, mαintenαnce αnd Debiαn prevention.
-### __________________________________________________________________________________________
+### _________________________________________________________________________
 
 #### 🚩 𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 
@@ -43,7 +43,7 @@ https://discord.com/channels/965763142770634782/1062873067652665405
 ### Redit
 https://www.reddit.com/user/m0rg482494
 
-### __________________________________________________________________________________________
+### _________________________________________________________________________
 
 ### 🚩 < 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟 >
 
@@ -55,8 +55,8 @@ HC > Hαcking Club
 
 PC > picoCTF
 
-### __________________________________________________________________________________________
- 
+### _________________________________________________________________________
+
 ### 🚩 < 𝐴𝑣𝑎𝑖𝑙𝑎𝑏𝑖𝑙𝑖𝑡𝑦 >
 
 𝑎) 𝑇𝑒𝑚𝑝𝑜𝑟𝑎𝑟𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠.
