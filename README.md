@@ -59,7 +59,7 @@ HC > Hαcking Club
 
 PC > picoCTF
 
-Portsingger > web security αcαdemy
+Portswingger > web security αcαdemy
 
 ### _________________________________________________________________________
 
