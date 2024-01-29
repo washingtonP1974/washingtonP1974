@@ -3,7 +3,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="Github">
 </div>
 
 ### _________________________________________________________________________
