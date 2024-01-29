@@ -14,9 +14,6 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 #### 🚩 𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 
-### Medium
-https://medium.com/@morganbinbash
-
 ### Gitbook
 https://morgan-bin-bash.gitbook.io/pentesting/
 
@@ -37,6 +34,14 @@ https://morgan-bin-bash.gitbook.io/data-base/
 https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
+
+<div align="left">
+  <br/>
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
+</div
+
+### Medium
+https://medium.com/@morganbinbash
 
 <div align="left">
   <br/>
