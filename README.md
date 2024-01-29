@@ -14,12 +14,12 @@ I hope my repositories will help with your work or studies, thαnk you for visit
 
 ### _________________________________________________________________________
 
-<div align="left">
+### 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚
+
+<div align="center">
   <br/>
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/b15194e5-e3c1-483f-9713-c191670ebb9c" alt="Media">
 </div
-
-### 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚
 
 <div align="left">
   <br/>
