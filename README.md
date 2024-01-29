@@ -8,10 +8,10 @@ In this repository you will find projects, scripts and tools that will help with
 
 ### 𝐺𝑒𝑡 𝑖𝑛 𝑡𝑜𝑢𝑐ℎ 𝑣𝑖𝑎 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎
 
-## Medium
+### Medium
 https://medium.com/@morganbinbash
 
-## Gitbook
+### Gitbook
 https://morgan-bin-bash.gitbook.io/pentesting/
 
 https://morgan-bin-bash.gitbook.io/php-vulnerabilities/
@@ -32,19 +32,19 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
-## X
+### X
 https://twitter.com/morganbinbash
 
 ## in
 https://www.linkedin.com/in/washington8p/
 
-## Discord
+### Discord
 https://discord.com/channels/965763142770634782/1062873067652665405
 
-## Redit
+### Redit
 https://www.reddit.com/user/m0rg482494
 
-###𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙞𝙡𝙞𝙩𝙮:
+### 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙞𝙡𝙞𝙩𝙮:
 
 1- 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘵𝘦𝘮𝘱𝘰𝘳𝘢𝘳𝘺 𝘸𝘰𝘳𝘬.
 
@@ -52,24 +52,15 @@ https://www.reddit.com/user/m0rg482494
 
 3- 𝘊𝘰𝘯𝘴𝘵𝘢𝘯𝘵 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘢𝘯𝘥 𝘵𝘳𝘢𝘪𝘯𝘪𝘯𝘨.
 
-### Meus Conhecimentos
+### 𝔐𝔶 𝔨𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢
+
 <div align="center">
   <br/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-  
-  
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
-
-  
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang">
-
-  
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux">
-
-  
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows">
-
-  
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS">
 </div>
 
