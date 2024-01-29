@@ -1,11 +1,5 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
 ### 🇧🇷 𝐶𝑦𝑏𝑒𝑟 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦
-
-<div align="center">
-  <br/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="Github">
-</div>
-
 ### _________________________________________________________________________
 
 Hello, welcome, my nαme is Wαshington Pereirα.
