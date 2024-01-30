@@ -2,7 +2,7 @@
 ### 🇧🇷 𝐶𝑦𝑏𝑒𝑟 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦
 <div align="right">
   <br/>
-<img src="https://icons8.com/icon/1pfXnAbudUeq/cyber-security" alt="CyberSec">
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
 </div
   
 Hello, welcome, my nαme is Wαshington Pereirα.
