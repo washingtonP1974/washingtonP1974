@@ -92,7 +92,7 @@ Portswingger > web security αcαdemy
 
 <div align="center">
   <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/1196ec4c-a479-4889-8a6b-3db7190cd8b3" alt="CyberSecurity">
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/2e186457-a0f1-4e80-b012-1d5ba264e0eb" alt="CyberSecurity">
 </div>
 
 ###
