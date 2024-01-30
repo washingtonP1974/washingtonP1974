@@ -62,14 +62,14 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
 ### __________________________ 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟
 
-Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
-
 <div align="center">
   <br/>
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/5b3ab5de-4e04-41ca-ba55-de6e9d91e307" 
 </a>
 
 </div>
+
+Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
 
 ### __________________________ 𝐴𝑣𝑎𝑖𝑙𝑎𝑏𝑖𝑙𝑖𝑡𝑦
 
