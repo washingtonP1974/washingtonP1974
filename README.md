@@ -82,7 +82,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 ### _________________________________________________________________________
 
-### 👾 𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒:
+### 𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒:
 <div align="center">
   <br/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana">
