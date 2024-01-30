@@ -105,7 +105,6 @@ Portswingger > web security αcαdemy
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux">
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows">
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS">
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
 </div>
 
 <div align="center">
