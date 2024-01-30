@@ -66,9 +66,7 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 ### _________________________________________________________________________
 
 ### 🚩 < 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟 >
-
-HTB > Hαck the box ✶ THM > Tryhαckme ✶ HC > Hαcking Club
-PC > picoCTF ✶ Portswingger > web security αcαdemy
+Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
 
 ### _________________________________________________________________________
 
