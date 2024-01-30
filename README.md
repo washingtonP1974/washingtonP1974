@@ -47,7 +47,7 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/454fbec8-8011-4777-b3b2-05c13a29e6ef" alt="Medium">
 </a>
   <a href="https://twitter.com/morganbinbash" target="_blank">
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/146726e5-1295-4c9b-8e06-65412833a965" alt="TwitterX">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/00d62ae1-e232-407f-b9b3-5da311616bbd" alt="TwitterX">
 </a>
 <a href="https://www.linkedin.com/in/washington8p/" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/ea0caf76-dbef-4403-ad51-755459e1c353" alt="Linkedin">
