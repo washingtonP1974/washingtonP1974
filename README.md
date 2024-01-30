@@ -64,6 +64,13 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
 Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
 
+<div align="center">
+  <br/>
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/5b3ab5de-4e04-41ca-ba55-de6e9d91e307" 
+</a>
+
+</div>
+
 ### __________________________ 𝐴𝑣𝑎𝑖𝑙𝑎𝑏𝑖𝑙𝑖𝑡𝑦
 
 𝑎) 𝑇𝑒𝑚𝑝𝑜𝑟𝑎𝑟𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠.
