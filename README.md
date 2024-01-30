@@ -41,7 +41,6 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
 ### _________________________ 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦: ______________________________
-
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/daebcf23-5c1b-4617-ac64-5df6499f92ec" alt="Medium">
@@ -60,7 +59,6 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 </a>
 
 </div>
-
 ### _________________________________________________________________________
 
 ### 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟
