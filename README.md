@@ -105,7 +105,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 <div align="center">
   <br/>
-   <img src="https://icons8.com/icon/u9R54eMKS8fw/github.png" alt="Github">
+   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/5563ecc5-665b-491a-b25b-ea7ab3a3541b" alt="GitHub">
 </div>
 <!--
 **washingtonP1974/washingtonP1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
