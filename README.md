@@ -39,7 +39,7 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
-### _____________________ 𝐆𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡 𝐯𝐢𝐚 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚 __________________________
+### _________________________ 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦: ______________________________
 
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
