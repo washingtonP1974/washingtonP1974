@@ -90,7 +90,8 @@ Portswingger > web security αcαdemy
 
 ### 🚩 𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒:
 
-![image](https://github.com/washingtonP1974/washingtonP1974/assets/55928887/a0d45a7e-4aab-445e-b3e3-5bebd334f1c7)
+![image](https://github.com/washingtonP1974/washingtonP1974/assets/55928887/17dc1891-f573-47c2-9371-99419fb3cb51)
+
 
 
 ###
