@@ -18,7 +18,7 @@ I hope my repositories will help with your work or studies, thαnk you for visit
 
 <div align="center">
   <br/>
-<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/7801d303-d770-4948-aaa2-2c2a20eadb46" alt="Book">
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/852a4238-0a2e-4f67-ae0f-fb716b5d9ed6" alt="Book">
 </div
 
 
