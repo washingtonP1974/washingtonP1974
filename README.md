@@ -89,10 +89,13 @@ Portswingger > web security αcαdemy
 ### _________________________________________________________________________
 
 ### 🚩 𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒:
+
+![image](https://github.com/washingtonP1974/washingtonP1974/assets/55928887/a0d45a7e-4aab-445e-b3e3-5bebd334f1c7)
+
+
 ###
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/color/48/000000/websecurity.png" alt="WebSecurity">
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana">
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
