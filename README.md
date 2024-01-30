@@ -2,7 +2,7 @@
 ### 🇧🇷 𝐶𝑦𝑏𝑒𝑟 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦
 <div align="center">
   <br/>
-<img src="![image](https://github.com/washingtonP1974/washingtonP1974/assets/55928887/bf63b756-982b-42c4-913e-87e7ef01351d)" alt="CyberSec">
+<img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/bf63b756-982b-42c4-913e-87e7ef01351d" alt="CyberSec">
 </div
 ### _________________________________________________________________________
 
