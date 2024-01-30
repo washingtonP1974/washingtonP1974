@@ -1,6 +1,7 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
 <div align="center">
   <br/>
+ <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/5b3ab5de-4e04-41ca-ba55-de6e9d91e307" 
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d26b5f54-ed00-41ba-92fa-876dd4886c70" alt="Flag">
 </div
@@ -56,14 +57,6 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 </a>
 <a href="https://www.reddit.com/user/m0rg4" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8b4c9314-f8f6-4d5f-a680-41377d8976a8)" alt="Reddit">
-</a>
-
-</div>
-
-
-<div align="left">  𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟
-  <br/>
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/5b3ab5de-4e04-41ca-ba55-de6e9d91e307" 
 </a>
 
 </div>
