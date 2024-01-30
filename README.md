@@ -92,7 +92,6 @@ Portswingger > web security αcαdemy
 ###
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/color/48/000000/cs-code.png" alt="VsCode">
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana">
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
