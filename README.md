@@ -61,7 +61,7 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 </div>
 
 
-<div align="center">
+<div align="left">  𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟
   <br/>
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/5b3ab5de-4e04-41ca-ba55-de6e9d91e307" 
 </a>
