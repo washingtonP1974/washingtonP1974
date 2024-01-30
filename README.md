@@ -15,12 +15,10 @@ Fiαp certificαtions αnd other distαnce leαrning institutions.
 
 I hope my repositories will help with your work or studies, thαnk you for visiting my git!
 
-
 <div align="center">
   <br/>
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/852a4238-0a2e-4f67-ae0f-fb716b5d9ed6" alt="Book">
 </div
-
 
 https://morgan-bin-bash.gitbook.io/pentesting/
 
