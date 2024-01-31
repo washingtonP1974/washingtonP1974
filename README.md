@@ -1,6 +1,7 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
 <div align="center">
   <br/>
+<img src="![image](https://github.com/washingtonP1974/washingtonP1974/assets/55928887/14c8b93a-0530-477c-8481-eae35be15c16)" alt="Bug">
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d26b5f54-ed00-41ba-92fa-876dd4886c70" alt="Flag">
 </div
