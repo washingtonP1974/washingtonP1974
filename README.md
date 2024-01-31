@@ -65,11 +65,14 @@ https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
 </div>
 
+
  𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟
 
 Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
 
+
  𝐴𝑣𝑎𝑖𝑙𝑎𝑏𝑖𝑙𝑖𝑡𝑦
+
 
 𝑎) 𝑇𝑒𝑚𝑝𝑜𝑟𝑎𝑟𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠.
 
@@ -78,6 +81,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 𝑐) 𝑉𝑜𝑙𝑢𝑛𝑡𝑒𝑒𝑟 𝑤𝑜𝑟𝑘.
 
 𝑑) 𝑂𝑝𝑒𝑛 𝑡𝑜 𝑝𝑎𝑟𝑡𝑖𝑐𝑖𝑝𝑎𝑡𝑖𝑜𝑛 𝑖𝑛 𝑎𝑛𝑦 𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑖𝑒𝑠, 𝑖𝑛 𝑎 𝑔𝑟𝑜𝑢𝑝 𝑜𝑟 𝑖𝑛𝑠𝑡𝑖𝑡𝑢𝑡𝑖𝑜𝑛, 𝑡ℎ𝑎𝑡 𝑤𝑖𝑙𝑙 𝑎𝑑𝑑 𝑡𝑜 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑖𝑜𝑛𝑎𝑙 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑎𝑛𝑑 𝑠𝑡𝑢𝑑𝑖𝑒𝑠.
+
 
  𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒
 
