@@ -103,6 +103,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux">
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows">
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS">
+  <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android">
 </div>
 
 <div align="center">
