@@ -5,13 +5,12 @@
 class Pentester:
     def __init__(self):
         self.name = "Washington Pereira"
-        self.certifications = "Fiap | cited to my knowledge"
-        self.acting = "Pentest Web, API, Bug Bounty "
+        self.certifications = "cited to my knowledge"
+        self.acting = "Pentest Web | red teamer | bug bounty | cybersec anallist"
 
 if __name__ == "__main__":
     morgan bin bash = Pentester()
 ```
-
 <hr>
 
 
