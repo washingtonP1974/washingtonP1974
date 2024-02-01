@@ -2,7 +2,7 @@
 <h2></h2>
 
 ```Python
-class Pentester:
+class pentester:
     def __init__(self):
         self.name = "Washington Pereira"
         self.certifications = "cited to my knowledge"
