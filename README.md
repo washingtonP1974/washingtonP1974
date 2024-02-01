@@ -1,4 +1,20 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
+<h2></h2>
+
+```Python
+class Pentester:
+    def __init__(self):
+        self.name = "Washington Pereira"
+        self.certifications = "Fiap | cited to my knowledge"
+        self.acting = "Pentest Web, API, Bug Bounty "
+
+if __name__ == "__main__":
+    morgan bin bash = Pentester()
+```
+
+<hr>
+
+
 
 <div align="center">
   <br/>
