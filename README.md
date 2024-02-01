@@ -2,7 +2,7 @@
 <h2></h2>
 
 ```Python
-class pentester:
+class Pentester:
     def __init__(self):
         self.name = "Washington Pereira"
         self.certifications = "cited to my knowledge"
@@ -24,8 +24,6 @@ if __name__ == "__main__":
   </a>
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561"
 </div>
-
-###
 
 <div align="center">
   <br/>
