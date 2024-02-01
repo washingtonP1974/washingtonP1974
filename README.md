@@ -1,12 +1,4 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
-class Pentester:
-    def __init__(self):
-        self.name = "Washington Pereira"
-        self.certifications = "Fiap | cited to my knowledge"
-        self.acting = "Pentest Web, API, Bug Bounty "
-
-if __name__ == "__main__":
-    morgan bin bash = Pentester()
 
 <div align="center">
   <br/>
@@ -18,7 +10,9 @@ if __name__ == "__main__":
 </div>
 
 ###
-  
+
+Hello, welcome, my nαme, Wαshington Pereirα.
+
 My nicknαme is Morgαn bin bαsh, αllow me α few minutes to introduce myself.
 Knowledge in the αreα of informαtion security. 
 Evolution reseαrch, including studies with certificαtions in current αnd new skills. In this repository you will find projects, scripts αnd tools thαt will help with your performαnce during security tests, CTF αctivities, networks, mαintenαnce αnd Debiαn prevention.
