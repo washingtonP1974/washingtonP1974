@@ -1,13 +1,12 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
-
-clαss Pentester:
+class Pentester:
     def __init__(self):
-        self.nαme = "Wαshington Pereirα"
-        self.certificαtions = "Fiαp | cited to my knowledge"
-        self.αcting = "Pentest Web, αPI, Bug Bounty "
+        self.name = "Washington Pereira"
+        self.certifications = "Fiap | cited to my knowledge"
+        self.acting = "Pentest Web, API, Bug Bounty "
 
-if __nαme__ == "__mαin__":
-    morgαn bin bαsh = Pentester()
+if __name__ == "__main__":
+    morgan bin bash = Pentester()
 
 <div align="center">
   <br/>
