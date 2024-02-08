@@ -1,18 +1,29 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
 <h2></h2>
 
-```Python
-class Pentester:
-    def __init__(self):
-        self.name = "Washington Pereira"
-        self.certifications = "cited to my knowledge"
-        self.acting = "ctf player |red teamer| cybersec analist | bounty hunter | pentester"
-        self.repositories = "Knowledge in the area of information security makes me grateful to continue research and constant studies, including some certification courses. In this repository you will find projects, scripts and tools that will help your 
-        performance during security testing, CTF activities, networking, maintenance and prevention of Debiαn."
-        self.note = "I hope these repositories help in your work or studies, thank you for visiting me.
+ <div class="home-content" data-scroll data-scroll-speed="-5" >
+            <h3 class="mu">Welcome , I am</h3>
+            <h1>Morgan bin bash</h1>
+            <h3>I am <span class="pro-text">
+                <script>
+                   var typed = new Typed(".pro-text", {
+                      strings: [
+                        "Ethical Hacker",
+                        "Pentester",
+                        "Programmer",
+                        "Ctf player",
+                        "Student",
+                        "Enthusiastic",
+                      ],
+                      typeSpeed: 100,   
+                      backSpeed: 100,   
+                      backDelay: 1000,  
+                      loop: true        
+                    });
+                </script>
+            </span></h3>
 
-if __name__ == "__main__":
-    morgan bin bash = Pentester()
+
 ```
 <hr>
 
