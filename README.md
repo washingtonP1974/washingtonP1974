@@ -89,7 +89,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 ### __________________________  __________________________
 
-<p align="right"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
 </p>
