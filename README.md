@@ -88,12 +88,6 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 𝑑) 𝑂𝑝𝑒𝑛 𝑡𝑜 𝑝𝑎𝑟𝑡𝑖𝑐𝑖𝑝𝑎𝑡𝑖𝑜𝑛 𝑖𝑛 𝑎𝑛𝑦 𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑖𝑒𝑠, 𝑖𝑛 𝑎 𝑔𝑟𝑜𝑢𝑝 𝑜𝑟 𝑖𝑛𝑠𝑡𝑖𝑡𝑢𝑡𝑖𝑜𝑛, 𝑡ℎ𝑎𝑡 𝑤𝑖𝑙𝑙 𝑎𝑑𝑑 𝑡𝑜 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑖𝑜𝑛𝑎𝑙 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑎𝑛𝑑 𝑠𝑡𝑢𝑑𝑖𝑒𝑠.
 
 ### __________________________  __________________________
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
-</p>
-
 ## 𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒
 
 <div align="center">
