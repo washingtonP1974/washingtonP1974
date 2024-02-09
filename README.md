@@ -121,6 +121,11 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 Here are some ideas to get you started:
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
+</p>
+
 <div align="center">
   <br/>
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/99a67d26-fd4c-4bab-a46a-67f13d3661d0" alt="GitHub">
