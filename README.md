@@ -121,10 +121,11 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 Here are some ideas to get you started:
 
-<p align="center"> 
+<div align="center">
+  <br/>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
-</p>
+</div>
 
 <div align="center">
   <br/>
