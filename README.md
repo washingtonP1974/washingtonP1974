@@ -51,6 +51,11 @@ https://morgan-bin-bash.gitbook.io/mind7-pentesting/
 
 https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
+</p>
+
 ### __________________________  __________________________
 ## 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
 <div align="center">
@@ -120,11 +125,6 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 **washingtonP1974/washingtonP1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
-</p>
 
 <div align="center">
   <br/>
