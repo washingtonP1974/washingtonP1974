@@ -119,14 +119,6 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 <!--
 **washingtonP1974/washingtonP1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-<div align="center">
-  <br/>
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/darshannn10/count.svg" />
-</div>
-
 <div align="center">
   <br/>
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/99a67d26-fd4c-4bab-a46a-67f13d3661d0" alt="GitHub">
