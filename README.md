@@ -89,7 +89,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-ℐ𝓃𝓋ℴ𝒸𝒶𝓃𝒹ℴ 𝓈ℯ𝓂𝓅𝓇ℯ 𝒶𝓈 ℯ𝓃ℯ𝓇ℊ𝒾𝒶𝓈 𝒸𝓇𝒾𝒶𝒹ℴ𝓇𝒶𝓈, 𝓆𝓊ℯ 𝓂𝒶𝓃𝓉ℯ𝓃𝒽𝒶𝓂 𝓂𝒾𝓃𝒽𝒶𝓈 𝓅𝒶𝓁𝒶𝓋𝓇𝒶𝓈 𝓃𝒶 𝓇ℯ𝓉𝒾𝒹𝒶̃ℴ 𝒹ℴ ℯ𝓈𝓆𝓊𝒶𝒹𝓇ℴ, 𝒿𝓊𝓃𝓉ℴ 𝒸ℴ𝓂 𝓂ℯ𝓊 𝓇𝒶𝒸𝒾ℴ𝒸𝒾́𝓃𝒾ℴ 𝒹ℯ𝓃𝓉𝓇ℴ 𝒹ℴ𝓈 𝓁𝒾𝓂𝒾𝓉ℯ𝓈 𝓉𝓇𝒶𝒸̧𝒶𝒹ℴ𝓈 𝓅ℯ𝓁ℴ 𝒸ℴ𝓂𝓅𝒶𝓈𝓈ℴ.
+"Aʟᴡᴀʏs ɪɴᴠᴏᴋɪɴɢ ᴄʀᴇᴀᴛɪᴠᴇ ᴇɴᴇʀɢɪᴇs, ᴡʜɪᴄʜ ᴋᴇᴇᴘ ᴍʏ ᴡᴏʀᴅs ɪɴ ᴛʜᴇ sᴛʀᴀɪɢʜᴛɴᴇss ᴏғ ᴛʜᴇ sǫᴜᴀʀᴇ, ᴀʟᴏɴɢ ᴡɪᴛʜ ᴍʏ ʀᴇᴀsᴏɴɪɴɢ ᴡɪᴛʜɪɴ ᴛʜᴇ ʟɪᴍɪᴛs ᴅʀᴀᴡɴ ʙʏ ᴛʜᴇ ᴄᴏᴍᴘᴀss".
 
 <div align="center">
   <br/>
