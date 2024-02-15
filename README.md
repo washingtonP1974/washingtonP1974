@@ -31,6 +31,8 @@ if __name__ == "__main__":
 <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/852a4238-0a2e-4f67-ae0f-fb716b5d9ed6" alt="Book">
 </div
 
+https://beacons.ai/morganbinbash
+
 https://morgan-bin-bash.gitbook.io/pentesting/
 
 https://morgan-bin-bash.gitbook.io/php-vulnerabilities/
