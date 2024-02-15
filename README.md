@@ -33,26 +33,6 @@ if __name__ == "__main__":
 
 https://beacons.ai/morganbinbash
 
-https://morgan-bin-bash.gitbook.io/pentesting/
-
-https://morgan-bin-bash.gitbook.io/php-vulnerabilities/
-
-https://morgan-bin-bash.gitbook.io/bash-scripting/
-
-https://morgan-bin-bash.gitbook.io/security/
-
-https://morgan-bin-bash.gitbook.io/scripts-and-codes-pentester/
-
-https://morgan-bin-bash.gitbook.io/ad-privilege-escalation/
-
-https://morgan-bin-bash.gitbook.io/linux-privilege-escalation/
-
-https://morgan-bin-bash.gitbook.io/data-base/
-
-https://morgan-bin-bash.gitbook.io/mind7-pentesting/
-
-https://morgan-bin-bash.gitbook.io/wi-fi-hacking/
-
 ### __________________________  __________________________
 ## 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
 <div align="center">
