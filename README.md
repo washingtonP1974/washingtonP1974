@@ -33,7 +33,6 @@
 </body>
 </html>
 
-<hr>
 
 <div align="center">
   <br/>
