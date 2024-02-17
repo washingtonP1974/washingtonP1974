@@ -1,19 +1,37 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
-<h2></h2>
 
-```Python
-class Pentester:
-    def __init__(self):
-        self.name = "Washington Pereira"
-        self.certifications = "cited to my knowledge"
-        self.acting = "ctf player |red teamer| cybersec analist | bounty hunter | pentester"
-        self.repositories = "Knowledge in the area of information security makes me grateful to continue research and constant studies, including some certification courses. In this repository you will find projects, scripts and tools that will help your 
-        performance during security testing, CTF activities, networking, maintenance and prevention of Debiαn."
-        self.note = "I hope these repositories help in your work or studies, thank you for visiting me.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Title</title>
+</head>
+<body>
 
-if __name__ == "__main__":
-    morgan bin bash = Pentester()
-```
+<div id="dynamicText"></div>
+
+<script>
+  // Array of roles
+  const roles = ['Pentester', 'CTF Player', 'Dev'];
+
+  // Function to update the text periodically
+  function updateText() {
+    const dynamicText = document.getElementById('dynamicText');
+    let currentIndex = 0;
+
+    setInterval(() => {
+      dynamicText.textContent = `My name is Morgan Bin Bash and I'm a ${roles[currentIndex]}`;
+      currentIndex = (currentIndex + 1) % roles.length;
+    }, 2000); // Change the interval (in milliseconds) as per your preference
+  }
+
+  // Call the function on page load
+  window.onload = updateText;
+</script>
+
+</body>
+</html>
 
 <hr>
 
