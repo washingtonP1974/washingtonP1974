@@ -1,45 +1,22 @@
 # 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Washington's Functions</title>
-    <style>
-        #functionDisplay {
-            font-size: 24px;
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Name: Washington</h1>
+<h2></h2>
 
-    <div id="functionDisplay">Loading...</div>
+```Python
+class Pentester:
+    def __init__(self):
+        self.name = "Washington Pereira"
+        self.certifications = "cited to my knowledge"
+        self.acting = "ctf player |red teamer| cybersec analist | bounty hunter | pentester"
+        self.repositories = "Knowledge in the area of information security makes me grateful to continue research and constant studies, including some certification courses. In this repository you will find projects, scripts and tools that will help your 
+        performance during security testing, CTF activities, networking, maintenance and prevention of Debiαn."
+        self.note = "I hope these repositories help in your work or studies, thank you for visiting me.
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const functions = ["ctflplayer", "cyber sec", "devment", "hacker", "teather"];
-            let currentIndex = 0;
-            const functionDisplay = document.getElementById("functionDisplay");
+if __name__ == "__main__":
+    morgan bin bash = Pentester()
+```
 
-            function displayNextFunction() {
-                functionDisplay.textContent = functions[currentIndex];
-                currentIndex = (currentIndex + 1) % functions.length;
-            }
-
-            // Display the first function immediately
-            displayNextFunction();
-
-            // Set interval to change the displayed function every 2 seconds
-            setInterval(displayNextFunction, 2000);
-        });
-    </script>
-</body>
-</html>
-
+<hr>
 
 
 <div align="center">
