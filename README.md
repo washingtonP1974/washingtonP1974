@@ -110,7 +110,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/github.com/washingtonP1974/washingtonP1974/blob/main/README.md" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974/washingtonP1974/blob/main/README.md" alt="visitor badge"/>
 </div>
 
 ##
