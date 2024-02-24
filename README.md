@@ -95,7 +95,7 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/Oxme5W2A35WAzm3HZc/giphy.gif" alt="Giphy">
+  <img src="https://media.giphy.com/media/3U68YjclRsGO3r2LpO/giphy.gif" alt="Giphy">
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
