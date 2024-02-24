@@ -107,8 +107,5 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/432f00be-20aa-471b-914e-0746668f10e7" alt="GitHub">
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/99a67d26-fd4c-4bab-a46a-67f13d3661d0" alt="GitHub">
-  </div>
+
 
