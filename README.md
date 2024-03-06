@@ -80,6 +80,11 @@ Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαd
 
 <div align="center">
   <br/>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="977e0ecb-98b1-45e5-8e32-395560a3dd83" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
+<div align="center">
+  <br/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana">
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
