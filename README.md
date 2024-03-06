@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
 ### __________________________  __________________________
 ## 𝐶𝑡𝑓 𝑝𝑙𝑎𝑦𝑒𝑟
-## Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
+### Hαckthebox ✶ Tryhαckme ✶ Hαcking Club ✶ picoCTF ✶ Portswingger αcαdemy
 
 ### __________________________  __________________________
 ## 𝑀𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒
