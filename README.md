@@ -101,7 +101,3 @@ if __name__ == "__main__":
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/432f00be-20aa-471b-914e-0746668f10e7" alt="GitHub">
-</div>
-
