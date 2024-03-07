@@ -69,6 +69,11 @@ if __name__ == "__main__":
 
 <div align="center">
   <br/>
+  <img src="https://github.com/washingtonP1974/Certificates/blob/main/endpoint-git.png" alt="endpoin">
+  </div>
+
+<div align="center">
+  <br/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana">
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
