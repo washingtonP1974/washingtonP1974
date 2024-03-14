@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
 <div align="center">
 <br/>
-  <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-210management.png" alt=""management>
+  <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-138management.png" alt=""management>
   <img src="https://github.com/washingtonP1974/Certificates/blob/main/endpoint-204security.png" alt="endpoint">
   </div>
 
