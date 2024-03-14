@@ -89,7 +89,6 @@ if __name__ == "__main__":
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-"Aʟᴡᴀʏs ɪɴᴠᴏᴋɪɴɢ ᴄʀᴇᴀᴛɪᴠᴇ ᴇɴᴇʀɢɪᴇs, ᴡʜɪᴄʜ ᴋᴇᴇᴘ ᴍʏ ᴡᴏʀᴅs ɪɴ ᴛʜᴇ sᴛʀᴀɪɢʜᴛɴᴇss ᴏғ ᴛʜᴇ sǫᴜᴀʀᴇ, ᴀʟᴏɴɢ ᴡɪᴛʜ ᴍʏ ʀᴇᴀsᴏɴɪɴɢ ᴡɪᴛʜɪɴ ᴛʜᴇ ʟɪᴍɪᴛs ᴅʀᴀᴡɴ ʙʏ ᴛʜᴇ ᴄᴏᴍᴘᴀss".
 
 <div align="center">
 <br/>
