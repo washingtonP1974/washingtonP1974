@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 
 ### __________________________  __________________________
-## Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
+## ᶜᵒⁿⁿᵉᶜᵗ ʷᶦᵗʰ ᵐᵉ
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/daebcf23-5c1b-4617-ac64-5df6499f92ec" alt="Medium">
