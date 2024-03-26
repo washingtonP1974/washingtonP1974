@@ -17,11 +17,10 @@ if __name__ == "__main__":
 ```
 
 <hr>
-
 <div align="center">
   <img height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
 </div>
-###
+
 <div align="center">
   <br/>
 
