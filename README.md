@@ -81,7 +81,11 @@ if __name__ == "__main__":
 
 <div align="center">
 <br/>
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
+  </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
+  </a>
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561"
 </div>
 
 <div align="center">
