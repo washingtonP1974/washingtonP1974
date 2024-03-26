@@ -27,8 +27,6 @@ if __name__ == "__main__":
 <div align="center">
   <br/>
 
-## https://beacons.ai/morganbinbash
-
 ### __________________________  __________________________
 ## ᶜᵒⁿⁿᵉᶜᵗ ʷᶦᵗʰ ᵐᵉ
 <div align="center">
