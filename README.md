@@ -70,7 +70,6 @@ if __name__ == "__main__":
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
 <div align="center">
 <br/>
   <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-204management.png" alt=""management>
@@ -94,4 +93,3 @@ if __name__ == "__main__":
 <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
 </div>
-
