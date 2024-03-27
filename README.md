@@ -41,8 +41,6 @@ if __name__ == "__main__":
 </a>
 <a href="https://www.reddit.com/user/m0rg4" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8b4c9314-f8f6-4d5f-a680-41377d8976a8)" alt="Reddit">
-</a>
-
 </div>
 
 ### __________________________  __________________________
