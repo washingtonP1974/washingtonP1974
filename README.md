@@ -24,7 +24,6 @@ if __name__ == "__main__":
 <div align="center">
   <br/>
 
-### __________________________  __________________________
 ## ᶜᵒⁿⁿᵉᶜᵗ ʷᶦᵗʰ ᵐᵉ
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
@@ -43,7 +42,6 @@ if __name__ == "__main__":
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8b4c9314-f8f6-4d5f-a680-41377d8976a8)" alt="Reddit">
 </div>
 
-### __________________________  __________________________
 ## ᵐʸ ᵏⁿᵒʷˡᵉᵈᵍᵉ
 
 <div align="center">
