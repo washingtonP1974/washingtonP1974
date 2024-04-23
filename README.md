@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
 <div align="center">
   <br/>
-  <img src="https://giphy.com/clips/xbox-xbox-series-x-two-face-elden-ring-17MylzTlG53gSM3kjD" alt="Giphy">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80bjRpaTZ6emhjcXNyN3oycjMxanB4Z2Uxc21vYjM0emo3Y3oxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wl4qpVTu3se15zv6iq/giphy.gif" alt="Giphy">
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
