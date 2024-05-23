@@ -10,7 +10,7 @@
 <div align="center">
   <br/>
 
-## ᶜᵒⁿⁿᵉᶜᵗ ʷᶦᵗʰ ᵐᵉ
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7D7EEFE&random=false&width=435&lines=Connect;with;me)](https://git.io/typing-svg)
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/daebcf23-5c1b-4617-ac64-5df6499f92ec" alt="Medium">
