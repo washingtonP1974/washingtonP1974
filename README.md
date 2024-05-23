@@ -29,7 +29,7 @@
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8b4c9314-f8f6-4d5f-a680-41377d8976a8)" alt="Reddit">
 </div>
 
-## ᵐʸ ᵏⁿᵒʷˡᵉᵈᵍᵉ
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=59F765&random=false&width=435&lines=%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E)](https://git.io/typing-svg)
 
 <div align="center">
   <br/>
