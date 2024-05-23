@@ -1,5 +1,3 @@
-# 𝒎𝒐𝒓𝒈𝒂𝒏 𝒃𝒊𝒏 𝒃𝒂𝒔𝒉
-
 <h2></h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13CF7FE&random=false&width=435&lines=Emphasis+on+cybersecurity;highlighted+in+several+tests;cyber+threat+management;Bounty+Hunter;pentester+and+ethical+hacker)](https://git.io/typing-svg)
