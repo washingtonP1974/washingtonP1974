@@ -5,9 +5,9 @@
 ```Python
 class Pentester:
     def __init__(self):
-        self.name = "Washington Pereira"
+        self.nickname = "Morgan Bin Bash"
         self.certifications = "cited to my knowledge"
-        self.acting = "ctf player |red teamer| cyber threat management | bounty hunter | pentester"
+        self.acting = "ethical hacker | red teamer| cyber threat management | bounty hunter | pentester"
         self.repositories = "Knowledge in the area of information security makes me grateful to continue research and constant studies, including some certification courses. In this repository you will find projects, scripts and tools that will help your 
         performance during security testing, CTF activities, networking, maintenance and prevention of Debiαn."
         self.note = "I hope these repositories help in your work or studies, thank you for visiting me.
