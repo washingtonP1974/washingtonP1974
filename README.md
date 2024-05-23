@@ -2,19 +2,7 @@
 
 <h2></h2>
 
-```Python
-class Pentester:
-    def __init__(self):
-        self.nickname = "Morgan Bin Bash"
-        self.certifications = "cited to my knowledge"
-        self.acting = "ethical hacker | red teamer| cyber threat management | bounty hunter | pentester"
-        self.repositories = "Knowledge in the area of information security makes me grateful to continue research and constant studies, including some certification courses. In this repository you will find projects, scripts and tools that will help your 
-        performance during security testing, CTF activities, networking, maintenance and prevention of Debiαn."
-        self.note = "I hope these repositories help in your work or studies, thank you for visiting me.
-
-if __name__ == "__main__":
-    morgan bin bash = Pentester()
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13CF7FE&random=false&width=435&lines=Emphasis+on+cybersecurity;highlighted+in+several+tests;cyber+threat+management;Bounty+Hunter;pentester+and+ethical+hacker)](https://git.io/typing-svg)
 
 <hr>
 <div align="center">
