@@ -10,7 +10,7 @@
 <div align="center">
   <br/>
 
-###  Connect with me
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=9B48F7&random=false&width=435&lines=Connect+;with+;me.;%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E)](https://git.io/typing-svg)
 
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
@@ -29,7 +29,7 @@
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/8b4c9314-f8f6-4d5f-a680-41377d8976a8)" alt="Reddit">
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=47F73C&random=false&width=435&lines=My+knowledge;%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=9B48F7&random=false&width=435&lines=Knowledge;in;%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E)](https://git.io/typing-svg)
 
 <div align="center">
   <br/>
