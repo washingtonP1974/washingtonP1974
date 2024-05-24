@@ -77,9 +77,3 @@
 <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
 </div>
-
-<hr>
-<div align="center">
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
-</div>
