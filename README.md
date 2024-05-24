@@ -54,26 +54,29 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-<hr>
 <div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/washingtonP1974/Certificates/main/cyber-threat-204management.png" alt="management">
-  <img src="https://raw.githubusercontent.com/washingtonP1974/Certificates/main/ethical-hacker204.png" alt="ethical-hacker204">
+<br/>
+  <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-204management.png" alt=""management>
+  <img src="https://github.com/washingtonP1974/Certificates/blob/main/ethical-hacker204.png" alt="ethical-hacker204">
 </div>
 
-<hr>
 <div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/washingtonP1974/washingtonP1974/main/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
-  <img src="https://raw.githubusercontent.com/washingtonP1974/washingtonP1974/main/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561" alt="Bounty">
+<br/>
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
+  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561"
 </div>
 
-<hr>
 <div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/washingtonP1974/Certificates/main/m190.png" alt="visitor badge"/>
+<br/>
+   <img src="https://github.com/washingtonP1974/Certificates/blob/main/m190.png" alt="visitor badge"/>
 </div>
 
+## https://beacons.ai/morganbinbash
+
+<div align="center">
+<br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
+</div>
 ## https://beacons.ai/morganbinbash
 
 <hr>
