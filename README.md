@@ -1,6 +1,6 @@
 <h2></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13CF7FE&random=false&width=435&lines=Emphasis+on+cybersecurity;highlighted+in+several+tests;cyber+threat+management;Bounty+Hunter;pentester+and+ethical+hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B48F7&random=false&width=435&lines=+%3C+Cybersecurity+Spotlight+%3E;%3C+Featured+in+various+cyber+security+testing+techniques+%3E+;%3C+Cyber+Threat+Management+%3E;%3C+Ethical+Hacker+%3E;%3C+Pentester+%3E;%3C+CTF+player+%3E)](https://git.io/typing-svg)
 
 <hr>
 <div align="center">
@@ -10,7 +10,7 @@
 <div align="center">
   <br/>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B48F7&random=false&width=435&lines=+%3C+Cybersecurity+Spotlight+%3E;%3C+Featured+in+various+cyber+security+testing+techniques+%3E+;%3C+Cyber+Threat+Management+%3E;%3C+Ethical+Hacker+%3E;%3C+Pentester+%3E)](https://git.io/typing-svg)
+###  Connect with me
 
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
