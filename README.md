@@ -56,8 +56,8 @@
 
 <div align="center">
 <br/>
-  <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-204management.png" alt=""management>
-  <img src="https://github.com/washingtonP1974/Certificates/blob/main/ethical-hacker204.png" alt="ethical-hacker204">
+  <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-204management.png" alt="Management">
+  <img src="https://github.com/washingtonP1974/Certificates/blob/main/ethical-hacker204.png" alt="Ethical-hacker204">
 </div>
 
 <div align="center">
