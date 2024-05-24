@@ -10,7 +10,7 @@
 <div align="center">
   <br/>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=59F765&random=false&width=435&lines=Connect+with+me;Welcome!;%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B48F7&random=false&width=435&lines=+%3C+Cybersecurity+Spotlight+%3E;%3C+Featured+in+various+cyber+security+testing+techniques+%3E+;%3C+Cyber+Threat+Management+%3E;%3C+Ethical+Hacker+%3E;%3C+Pentester+%3E)](https://git.io/typing-svg)
 
 <div align="center">
    <a href="https://medium.com/@morganbinbash" target="_blank">
