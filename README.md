@@ -46,6 +46,7 @@
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS">
 </div>
 
+<hr>
 <div align="center">
   <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80bjRpaTZ6emhjcXNyN3oycjMxanB4Z2Uxc21vYjM0emo3Y3oxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wl4qpVTu3se15zv6iq/giphy.gif" alt="Giphy">
@@ -53,18 +54,21 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
 <div align="center">
 <br/>
   <img src="https://github.com/washingtonP1974/Certificates/blob/main/cyber-threat-204management.png" alt=""management>
   <img src="https://github.com/washingtonP1974/Certificates/blob/main/ethical-hacker204.png" alt="ethical-hacker204">
 </div>
 
+<hr>
 <div align="center">
 <br/>
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561"
 </div>
 
+<hr>
 <div align="center">
 <br/>
    <img src="https://github.com/washingtonP1974/Certificates/blob/main/m190.png" alt="visitor badge"/>
@@ -72,6 +76,7 @@
 
 ## https://beacons.ai/morganbinbash
 
+<hr>
 <div align="center">
 <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
